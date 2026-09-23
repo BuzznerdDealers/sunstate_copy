@@ -75,7 +75,12 @@
       "loc-summary": {
         "snapshots": {
           "ls-phones": {
-            "numbers": []
+            "numbers": [
+              {
+                "label": "Location 2",
+                "number": "8101564404"
+              }
+            ]
           },
           "ls-map-w": {
             "photo": {
@@ -93,16 +98,16 @@
               "slug": "location-2",
               "num": "01",
               "href": null,
-              "streetAddress": null,
-              "city": "",
-              "region": "",
+              "streetAddress": "sukantapally, Gatebazar",
+              "city": "Siliguri",
+              "region": "734001",
               "postalCode": "",
               "country": null,
-              "latitude": null,
-              "longitude": null,
-              "phone": "",
-              "phoneUrl": null,
-              "mapUrl": null,
+              "latitude": 20,
+              "longitude": -30,
+              "phone": "8101564404",
+              "phoneUrl": "tel:8101564404",
+              "mapUrl": "https://www.google.com/maps/search/?api=1&query=20,-30",
               "email": null,
               "brands": "",
               "services": "",
@@ -125,8 +130,8 @@
                 "alt": "mountain__02-labelled-1790071585783.jpg"
               },
               "banner": {
-                "src": "",
-                "alt": ""
+                "src": "https://vendure.buzznerdrv.com/assets/source/80/mountain__02-labelled-1790071585783.jpg",
+                "alt": "mountain__02-labelled-1790071585783.jpg"
               },
               "brandRows": [],
               "serviceRows": [],
@@ -158,16 +163,16 @@
                 "slug": "location-2",
                 "num": "01",
                 "href": null,
-                "streetAddress": null,
-                "city": "",
-                "region": "",
+                "streetAddress": "sukantapally, Gatebazar",
+                "city": "Siliguri",
+                "region": "734001",
                 "postalCode": "",
                 "country": null,
-                "latitude": null,
-                "longitude": null,
-                "phone": "",
-                "phoneUrl": null,
-                "mapUrl": null,
+                "latitude": 20,
+                "longitude": -30,
+                "phone": "8101564404",
+                "phoneUrl": "tel:8101564404",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=20,-30",
                 "email": null,
                 "brands": "",
                 "services": "",
@@ -190,8 +195,8 @@
                   "alt": "mountain__02-labelled-1790071585783.jpg"
                 },
                 "banner": {
-                  "src": "",
-                  "alt": ""
+                  "src": "https://vendure.buzznerdrv.com/assets/source/80/mountain__02-labelled-1790071585783.jpg",
+                  "alt": "mountain__02-labelled-1790071585783.jpg"
                 },
                 "brandRows": [],
                 "serviceRows": [],
@@ -2528,16 +2533,16 @@
                 "slug": "location-2",
                 "num": "01",
                 "href": null,
-                "streetAddress": null,
-                "city": "",
-                "region": "",
+                "streetAddress": "sukantapally, Gatebazar",
+                "city": "Siliguri",
+                "region": "734001",
                 "postalCode": "",
                 "country": null,
-                "latitude": null,
-                "longitude": null,
-                "phone": "",
-                "phoneUrl": null,
-                "mapUrl": null,
+                "latitude": 20,
+                "longitude": -30,
+                "phone": "8101564404",
+                "phoneUrl": "tel:8101564404",
+                "mapUrl": "https://www.google.com/maps/search/?api=1&query=20,-30",
                 "email": null,
                 "brands": "",
                 "services": "",
@@ -2560,8 +2565,8 @@
                   "alt": "mountain__02-labelled-1790071585783.jpg"
                 },
                 "banner": {
-                  "src": "",
-                  "alt": ""
+                  "src": "https://vendure.buzznerdrv.com/assets/source/80/mountain__02-labelled-1790071585783.jpg",
+                  "alt": "mountain__02-labelled-1790071585783.jpg"
                 },
                 "brandRows": [],
                 "serviceRows": [],
@@ -3424,7 +3429,11 @@
   "locations": [
     {
       "slug": "location-2",
-      "name": "Location 2"
+      "name": "Location 2",
+      "city": "Siliguri",
+      "region": "734001",
+      "streetAddress": "sukantapally, Gatebazar",
+      "phone": "8101564404"
     },
     {
       "slug": "main",
