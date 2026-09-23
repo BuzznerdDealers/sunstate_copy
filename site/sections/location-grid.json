@@ -210,8 +210,7 @@
                   "props": {
                     "widget": "locations-map",
                     "config": {
-                      "showMap": true,
-                      "mapProvider": "static"
+                      "showMap": false
                     },
                     "snapshot": {
                       "locations": [
@@ -1150,7 +1149,7 @@
                   "id": "lg-card-addr",
                   "type": "text",
                   "props": {
-                    "text": "{{streetAddress}}",
+                    "text": "{{streetAddress}}, {{city}}, {{region}} {{postalCode}}",
                     "width": "full"
                   }
                 },
