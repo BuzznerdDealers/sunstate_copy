@@ -138,6 +138,10 @@
                             "src": "https://vendure.buzznerdrv.com/assets/source/80/mountain__02-labelled-1790071585783.jpg",
                             "alt": "mountain__02-labelled-1790071585783.jpg"
                           },
+                          "banner": {
+                            "src": "",
+                            "alt": ""
+                          },
                           "brandRows": [],
                           "serviceRows": [],
                           "perkRows": [],
@@ -179,6 +183,10 @@
                           "group": null,
                           "groupKey": null,
                           "photo": {
+                            "src": "",
+                            "alt": ""
+                          },
+                          "banner": {
                             "src": "",
                             "alt": ""
                           },
@@ -1061,6 +1069,10 @@
                   "src": "https://vendure.buzznerdrv.com/assets/source/80/mountain__02-labelled-1790071585783.jpg",
                   "alt": "mountain__02-labelled-1790071585783.jpg"
                 },
+                "banner": {
+                  "src": "",
+                  "alt": ""
+                },
                 "brandRows": [],
                 "serviceRows": [],
                 "perkRows": [],
@@ -1102,6 +1114,10 @@
                 "group": null,
                 "groupKey": null,
                 "photo": {
+                  "src": "",
+                  "alt": ""
+                },
+                "banner": {
                   "src": "",
                   "alt": ""
                 },
@@ -1952,6 +1968,10 @@
                 "src": "https://vendure.buzznerdrv.com/assets/source/80/mountain__02-labelled-1790071585783.jpg",
                 "alt": "mountain__02-labelled-1790071585783.jpg"
               },
+              "banner": {
+                "src": "",
+                "alt": ""
+              },
               "brandRows": [],
               "serviceRows": [],
               "perkRows": [],
@@ -1993,6 +2013,10 @@
               "group": null,
               "groupKey": null,
               "photo": {
+                "src": "",
+                "alt": ""
+              },
+              "banner": {
                 "src": "",
                 "alt": ""
               },
@@ -2930,7 +2954,9 @@
                         }
                       ]
                     },
-                    "snapshot": null
+                    "snapshot": {
+                      "items": []
+                    }
                   }
                 }
               ]
