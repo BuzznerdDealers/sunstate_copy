@@ -233,7 +233,12 @@
                     "widget": "locations-pinmap",
                     "config": {
                       "pagePathPrefix": "/locations",
-                      "basemap": {},
+                      "basemap": {
+                        "src": "https://vendure.buzznerdrv.com/assets/source/85/mountain__02.webp",
+                        "alt": "mountain__02.webp",
+                        "width": 750,
+                        "height": 864
+                      },
                       "anchors": []
                     },
                     "snapshot": {
@@ -276,6 +281,10 @@
                             "src": "https://vendure.buzznerdrv.com/assets/source/80/mountain__02-labelled-1790071585783.jpg",
                             "alt": "mountain__02-labelled-1790071585783.jpg"
                           },
+                          "banner": {
+                            "src": "",
+                            "alt": ""
+                          },
                           "brandRows": [],
                           "serviceRows": [],
                           "perkRows": [],
@@ -317,6 +326,10 @@
                           "group": null,
                           "groupKey": null,
                           "photo": {
+                            "src": "",
+                            "alt": ""
+                          },
+                          "banner": {
                             "src": "",
                             "alt": ""
                           },
