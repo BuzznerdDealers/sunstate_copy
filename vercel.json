@@ -6,15 +6,19 @@
   "rewrites": [
     {
       "source": "/store",
-      "destination": "https://sudip-dealer.buzznerdsubsite.loc/store"
+      "destination": "https://test.buzznerdrv.com/store"
     },
     {
       "source": "/store/",
-      "destination": "https://sudip-dealer.buzznerdsubsite.loc/store/"
+      "destination": "https://test.buzznerdrv.com/store/"
+    },
+    {
+      "source": "/store/:path*/",
+      "destination": "https://test.buzznerdrv.com/store/:path*/"
     },
     {
       "source": "/store/:path*",
-      "destination": "https://sudip-dealer.buzznerdsubsite.loc/store/:path*"
+      "destination": "https://test.buzznerdrv.com/store/:path*"
     }
   ],
   "headers": [
